@@ -8,7 +8,7 @@
         xmlns:componentModel="clr-namespace:System.ComponentModel;assembly=WindowsBase" 
         xmlns:converters="clr-namespace:Decibel.Converters"
         mc:Ignorable="d"
-        Title="MainWindow" 
+        Title="Decibel" 
         Icon="/Assets/Icons/icon.ico"
         Height="480" MinHeight="480" 
         Width="550" MinWidth="530"

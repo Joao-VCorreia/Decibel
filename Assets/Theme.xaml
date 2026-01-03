@@ -24,14 +24,6 @@
     <SolidColorBrush x:Key="BrushAccentDark" Color="{StaticResource AccentDark}" />
     <SolidColorBrush x:Key="BrushAccentLight" Color="{StaticResource AccentLight}" />
 
-    <!-- ======================= -->
-    <!--     GLOBAL FONT BOLD    -->
-    <!-- ======================= -->
-
-    <Style TargetType="Control">
-        <Setter Property="FontWeight" Value="Bold" />
-    </Style>
-
 
     <!-- ======================= -->
     <!--        BUTTON           -->
@@ -400,10 +392,10 @@
         <Setter Property="Background" Value="{StaticResource BrushControlBackground}"/>
         <Setter Property="BorderBrush" Value="{StaticResource BrushAccentDark}"/>
         <Setter Property="Foreground" Value="{StaticResource BrushPrimaryText}"/>
-        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="FontSize" Value="12"/>
         <Setter Property="BorderThickness" Value="2"/>
-        <Setter Property="Width" Value="30"/>
-        <Setter Property="Height" Value="30"/>
+        <Setter Property="Width" Value="36"/>
+        <Setter Property="Height" Value="36"/>
         <Setter Property="VerticalAlignment" Value="Center"/>
         <Setter Property="HorizontalAlignment" Value="Center"/>
 

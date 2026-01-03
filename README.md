@@ -8,16 +8,11 @@ Agende o volume do seu sistema. Acorde suave, trabalhe focado e jogue sem estour
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Joao-VCorreia/Decibel/releases">
-    <img src="https://img.shields.io/github/v/release/Joao-VCorreia/Decibel?style=flat-square&color=337099" alt="Release" />
-  </a>
-  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows" alt="Platform Windows" />
-  <img src="https://img.shields.io/badge/Built%20With-.NET%208-purple?style=flat-square&logo=dotnet" alt="Built with .NET" />
-  <a href="LICENSE.md">
-    <img src="https://img.shields.io/github/license/Joao-VCorreia/Decibel?style=flat-square" alt="License" />
-  </a>
-</p>
+![GitHub Release](https://img.shields.io/github/v/release/Joao-VCorreia/Decibel)
+![Platform Windows](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows)
+![Built with .NET 8](https://img.shields.io/badge/Built%20With-.NET%208-purple?style=flat-square&logo=dotnet)
+![GitHub License](https://img.shields.io/github/license/Joao-VCorreia/Decibel)
+
 
 ---
 

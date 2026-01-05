@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decibel", "Decibel.csproj", "{44BAF97B-2C63-4E6B-8DA0-49B858F9335C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decibel", "Decibel\Decibel.csproj", "{35821073-40F7-BB20-BE01-35F166D87889}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{44BAF97B-2C63-4E6B-8DA0-49B858F9335C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44BAF97B-2C63-4E6B-8DA0-49B858F9335C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44BAF97B-2C63-4E6B-8DA0-49B858F9335C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44BAF97B-2C63-4E6B-8DA0-49B858F9335C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35821073-40F7-BB20-BE01-35F166D87889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35821073-40F7-BB20-BE01-35F166D87889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35821073-40F7-BB20-BE01-35F166D87889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35821073-40F7-BB20-BE01-35F166D87889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,6 @@
 # Decibel
 
-<img align="right" height="80" src="Assets/Icons/256x256.png" alt="Decibel" />
+<img align="right" height="80" src="Decibel/Assets/Icons/256x256.png" alt="Decibel" />
 
 Automação Inteligente de Volume para Windows
 
@@ -15,14 +15,30 @@ Agende o volume do seu sistema. Acorde suave, trabalhe focado e jogue sem estour
 
 
 ---
-
 ## Demonstração
 
-| Funcionalidade | Preview |
-| :--- | :--- |
-| **Criação de Agendamentos**<br>Define horários e dias da semana para o volume mudar. | <video src="https://github.com/user-attachments/assets/63bf808b-e124-4fad-9425-98a772048c86" controls width="50%"></video> |
-| **Operação**<br>Permite minimizar aplicação sem encerramento do monitoramento | <video src="https://github.com/user-attachments/assets/d3c26519-a65a-4226-aede-4acd74e209da" controls width="50%"></video> |
-| **Recuperação**<br>Desfaz alterações acidentais (Undo). | <video src="https://github.com/user-attachments/assets/d9d4d467-2772-4ace-a723-cad89190c355" controls width="50%"></video> |
+<br>
+<div align="center" width="40px">
+  <strong>Criação de Agendamentos</strong>
+  <p>Define horários e dias da semana para o volume mudar.</p>
+  <video src="https://github.com/user-attachments/assets/63bf808b-e124-4fad-9425-98a772048c86" controls width="40%"></video>
+</div>
+
+<br>
+
+<div align="center">
+  <strong>Operação</strong>
+  <p>Permite minimizar aplicação sem encerramento do monitoramento.</p>
+  <video src="https://github.com/user-attachments/assets/d3c26519-a65a-4226-aede-4acd74e209da" controls width="40%"></video>
+</div>
+
+<br>
+
+<div align="center">
+  <strong>Recuperação</strong>
+  <p>Desfaz alterações acidentais (Undo).</p>
+  <video src="https://github.com/user-attachments/assets/d9d4d467-2772-4ace-a723-cad89190c355" controls width="40%"></video>
+</div>
 
 ---
 ## Visão Geral

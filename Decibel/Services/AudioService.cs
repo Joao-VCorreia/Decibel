@@ -1,8 +1,9 @@
-﻿using NAudio.CoreAudioApi;
+﻿using Decibel.Interfaces.Services;
+using NAudio.CoreAudioApi;
 
 namespace Decibel.Services
 {
-    class AudioService
+    class AudioService : IAudioService
     {
         //Encontrando os dispositivos de audio ativos
         private readonly MMDeviceEnumerator _deviceEnumerator;

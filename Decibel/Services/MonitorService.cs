@@ -1,4 +1,5 @@
-﻿using Decibel.Models;
+﻿using Decibel.Interfaces.Services;
+using Decibel.Models;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Timers;
@@ -8,8 +9,8 @@ namespace Decibel.Services
 {
     class MonitorService : IDisposable
     {
-        private readonly AudioService _audioService;
-        private readonly SettingsService _settingsService;
+        private readonly IAudioService _audioService;
+        private readonly ISettingsService _settingsService;
         private readonly Timer _timer;
         private ObservableCollection<SchedulePlan> _plans;
 
@@ -18,7 +19,7 @@ namespace Decibel.Services
 
         private DateTime _lastProcessdTime;
 
-        public MonitorService(AudioService audioService, SettingsService settingsService)
+        public MonitorService(IAudioService audioService, ISettingsService settingsService)
         {
             _audioService = audioService;
             _settingsService = settingsService;

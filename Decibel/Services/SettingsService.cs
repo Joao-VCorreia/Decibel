@@ -1,4 +1,5 @@
-﻿using Decibel.Models;
+﻿using Decibel.Interfaces.Services;
+using Decibel.Models;
 using Decibel.Models.Results;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
@@ -7,7 +8,7 @@ using System.Text.Json;
 
 namespace Decibel.Services
 {
-    class SettingsService
+    class SettingsService : ISettingsService
     {
         public ActionResult SaveSchedules(ObservableCollection<SchedulePlan> plans)
         {
